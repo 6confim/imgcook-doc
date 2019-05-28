@@ -30,7 +30,10 @@
 sketch通过插件-生成json文件（该文件对生成dsl文件没有太大的帮助），把改文件上床到imgcook server， imgcook-server生成对应的dsl文件，包括vue、json、jsx、html等，可以是px或者rem的布局等
 
 ## 设计注意点
-1. 
+1. 要有模块思维方式
+2. 要注意分层（背景，模块内容）
+3. 组件合并
+4. 如果设计内容超过了设计的边界，使用 mask 或者 直接截图放置
 
 
 
