@@ -1,4 +1,4 @@
-# 阿里 imgcook 使用整理
+# imgcook 使用整理
 
 ## 可行性
 
